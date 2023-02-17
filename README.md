@@ -2,7 +2,7 @@
 Intended to work in conjunction with the SublimeText plugin PlainTasks: https://packagecontrol.io/packages/PlainTasks
 
 ## Warnings
- - file path is currently hardcoded in <pre>todo_generator.py</pre>
+ - file path is currently hardcoded in `todo_generator.py`
 
 ## Setup
  - add cronjob of autorun.py to get automated popups

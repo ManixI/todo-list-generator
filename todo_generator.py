@@ -7,7 +7,7 @@ import pandas as pd
 
 todo_file = "checklist.json"
 
-todo_path = '/home/ian/dev/other/todo-generator/daily/'
+todo_path = str(os.getcwd())+'/daily/'
 
 
 empty_dict = {
